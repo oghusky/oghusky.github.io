@@ -354,6 +354,13 @@ footer p {
   padding: 0;
   margin: 0;
 }
+.foot-links {
+  text-decoration: none;
+  color: #eeeeee;
+  padding: 0;
+  font-size: 1.5rem;
+  margin: 1rem 2rem;
+}
 @media screen and (max-width: 800px) {
   header {
     padding: 40% 0;
