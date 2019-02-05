@@ -317,6 +317,8 @@ nav a {
   color: var(--grey-color-background);
   outline: none;
   box-shadow: none;
+  border-bottom: 1px solid #fafafa;
+  transition: all 1s;
 }
 #full-contact h6 {
   color: #33b5e5;
